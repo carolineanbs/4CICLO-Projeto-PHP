@@ -1,0 +1,23 @@
+This project has only academic purposes.
+
+Most pictures from this project came from 
+
+https://wallhaven.cc/
+https://br.freepik.com/home
+
+
+Framework:
+
+https://getbootstrap.com/
+
+Programming Language:
+
+https://www.php.net/
+
+Best wishes.
+
+
+
+
+
+
